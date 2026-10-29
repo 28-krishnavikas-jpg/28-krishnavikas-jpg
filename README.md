@@ -24,6 +24,6 @@ Welcome to my GitHub profile! I'm a postgraduate management student with a backg
 
 ## 🤝 Connect With Me
 - LinkedIn: [https://www.linkedin.com/in/krishna-vikas-3b4595258?utm_source=share_via&utm_content=profile&utm_medium=member_ios]
-- GitHub: 
+- GitHub: https://github.com/28-krishnavikas-jpg/28-krishnavikas-jpg
 
 I'm always eager to learn, collaborate, and explore new opportunities. 🚀
